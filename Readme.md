@@ -1,11 +1,11 @@
-# HackRF
+## crackerdown ( HackRF )
 
 This repository contains hardware designs and software for HackRF,
 a low cost, open source Software Defined Radio platform.
 
 ![HackRF One](https://raw.github.com/mossmann/hackrf/master/docs/images/HackRF-One-fd0-0009.jpeg)
 
-(photo by fd0 from https://github.com/fd0/hackrf-one-pictures)
+photo by fd0 from [hackrf](https://github.com/fd0/hackrf-one-pictures)
 
 principal author: Michael Ossmann <mike@ossmann.com>
 
@@ -13,7 +13,7 @@ Information on HackRF and purchasing HackRF: https://greatscottgadgets.com/hackr
 
 --------------------
 
-# Documentation
+## Documentation
 
 Documentation for HackRF can be viewed on [Read the Docs](https://hackrf.readthedocs.io/en/latest/). The raw documentation files for HackRF are in the [docs folder](https://github.com/mossmann/hackrf/tree/master/docs) in this repository and can be built locally by installing [Sphinx Docs](https://www.sphinx-doc.org/en/master/usage/installation.html) and running `make html`. Documentation changes can be submitted through pull request and suggestions can be made as GitHub issues. 
 
@@ -25,7 +25,7 @@ To create a PDF of the HackRF documentation from the HackRF repository while on 
 
 --------------------
 
-# Getting Help
+## Getting Help
 
 Before asking for help with HackRF, check to see if your question is listed in the [FAQ](https://hackrf.readthedocs.io/en/latest/faq.html).
 
