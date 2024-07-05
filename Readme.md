@@ -5,6 +5,8 @@ a low cost, open source Software Defined Radio platform.
 
 ![HackRF One](https://raw.github.com/mossmann/hackrf/master/docs/images/HackRF-One-fd0-0009.jpeg)
 
+Unlike traditional web based attacks, attackers try to intervene in the radio channel and then connect to the channel and exert control. Once that control is established, it can then be used to penetrate deeper within the network or system. For instance, SCADA/ICS systems often used radio communications to their remote terminal units (RTU) and other stations as physical wiring is impractical over hundreds of acres or miles.
+
 photo by fd0 from [hackrf](https://github.com/fd0/hackrf-one-pictures)
 
 principal author: Michael Ossmann <mike@ossmann.com>
@@ -36,3 +38,5 @@ We invite you to join our community discussions on [Discord](https://discord.gg/
 If you wish to see past discussions and questions about HackRF, you may also view the [mailing list archives](https://pairlist9.pair.net/pipermail/hackrf-dev/).
 
 GitHub issues on this repository that are labelled "technical support" by Great Scott Gadgets employees can expect a response time of two weeks. We currently do not have expected response times for other GitHub issues or pull requests for this repository. 
+
+**Thanks to**: greatscottgadgets
