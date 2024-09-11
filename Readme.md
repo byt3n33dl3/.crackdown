@@ -1,4 +1,4 @@
-## crackerdown ( HackRF )
+# .crackdown HackRF
 
 This repository contains hardware designs and software for HackRF,
 a low cost, open source Software Defined Radio platform.
